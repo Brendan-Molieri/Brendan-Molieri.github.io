@@ -8,7 +8,7 @@ body {
     box-sizing: border-box;
     font-size: 1.6rem;
     font-family: "Lato",sans-serif;
-    background-image: url("/images/city.jpg");
+    background-image: url("https://github.com/Brendan-Molieri/Brendan-Molieri.github.io/tree/main/images/city.jpg");
 }
 
 .main {
