@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link type="text/css" rel="stylesheet" href="portofolio.css" media="screen">
+    <link type="text/css" rel="stylesheet" href="CSS/portfolio.css" media="screen">
     <title>Brendan Molieri - Computer Science Student</title>
 </head>
     <div class=bg-image></div>
